@@ -16,5 +16,5 @@ Data set on employee turnover was found on Kaggle: https://www.kaggle.com/davinw
 ## Technologies & languages 
 The study was conducted using Python 3.7 with following Libraries
 * [Lifelines](https://lifelines.readthedocs.io/en/latest/index.html) - Python library specialized in survival analysis
-* [Pandas]
-* [Numpy]
+* Pandas
+* Numpy
